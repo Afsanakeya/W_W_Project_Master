@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="3ceb45d5-c5ef-4dbe-ad59-2f99cc1963c5" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ProjectId" id="1ZPwd8bMPodq6sCl7YOP1xr7ywC" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RunManager" selected="Cucumber java.Feature: W_W_Test_Scripts">
+    <configuration name="Feature: W_W_Test_Scripts" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true" nameIsGenerated="true">
+      <option name="CUCUMBER_CORE_VERSION" value="1.2" />
+      <option name="FILE_PATH" value="$PROJECT_DIR$/Test_Scripts/W_W_Test_Scripts.feature" />
+      <option name="GLUE" value="com.ww.stepdef" />
+      <option name="MAIN_CLASS_NAME" value="cucumber.api.cli.Main" />
+      <module name="W_W_Project" />
+      <option name="PROGRAM_PARAMETERS" value=" --plugin org.jetbrains.plugins.cucumber.java.run.CucumberJvmSMFormatter --monochrome" />
+      <option name="SUGGESTED_NAME" value="Feature: W_W_Test_Scripts" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cucumber.api.cli.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="/Users/rashelkhan/Desktop/All/Project/W_W_Project/Test_Runner/Test_Runner.xml" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="W_W_Project" />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/Test_Runner/Test_Runner.xml" />
+      <option name="TEST_OBJECT" value="SUITE" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Cucumber java.Feature: W_W_Test_Scripts" />
+        <item itemvalue="TestNG./Users/rashelkhan/Desktop/All/Project/W_W_Project/Test_Runner/Test_Runner.xml" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3ceb45d5-c5ef-4dbe-ad59-2f99cc1963c5" name="Default Changelist" comment="" />
+      <created>1584754121317</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1584754121317</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="414" y="103" key="#&lt;default&gt;" timestamp="1584755574324">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="414" y="103" key="#&lt;default&gt;/0.0.1440.900@0.0.1440.900" timestamp="1584755574324" />
+    <state width="1398" height="303" key="GridCell.Tab.0.bottom" timestamp="1584764626206">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="303" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1584764626206" />
+    <state width="1398" height="303" key="GridCell.Tab.0.center" timestamp="1584764626204">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="303" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1584764626204" />
+    <state width="1398" height="303" key="GridCell.Tab.0.left" timestamp="1584764626203">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="303" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1584764626203" />
+    <state width="1398" height="303" key="GridCell.Tab.0.right" timestamp="1584764626205">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="303" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1584764626205" />
+    <state width="1398" height="303" key="GridCell.Tab.1.bottom" timestamp="1584764626210">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="303" key="GridCell.Tab.1.bottom/0.0.1440.900@0.0.1440.900" timestamp="1584764626210" />
+    <state width="1398" height="303" key="GridCell.Tab.1.center" timestamp="1584764626208">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="303" key="GridCell.Tab.1.center/0.0.1440.900@0.0.1440.900" timestamp="1584764626208" />
+    <state width="1398" height="303" key="GridCell.Tab.1.left" timestamp="1584764626207">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="303" key="GridCell.Tab.1.left/0.0.1440.900@0.0.1440.900" timestamp="1584764626207" />
+    <state width="1398" height="303" key="GridCell.Tab.1.right" timestamp="1584764626209">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="303" key="GridCell.Tab.1.right/0.0.1440.900@0.0.1440.900" timestamp="1584764626209" />
+    <state x="229" y="89" key="SettingsEditor" timestamp="1584755295562">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="229" y="89" key="SettingsEditor/0.0.1440.900@0.0.1440.900" timestamp="1584755295562" />
+    <state x="390" y="284" key="com.intellij.ide.util.TipDialog" timestamp="1584755233875">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="390" y="284" key="com.intellij.ide.util.TipDialog/0.0.1440.900@0.0.1440.900" timestamp="1584755233875" />
+  </component>
+</project>

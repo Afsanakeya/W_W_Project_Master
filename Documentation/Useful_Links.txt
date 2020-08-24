@@ -1,0 +1,20 @@
+https://www.tutorialspoint.com/javaexamples/java_apache_poi_ppt.htm
+
+
+https://howtodoinjava.com/
+
+
+
+(FOR CONVERTER ie PDF TO WORD, TEXT)
+
+https://www.ngdeveloper.com/convert-pdf-to-word-in-java-example/ 
+
+
+FOR AUTOMATION PRACTICE
+https://opensource-demo.orangehrmlive.com/
+
+https://jquery.com/
+
+
+Learning
+https://www.w3.org/TR/webdriver/

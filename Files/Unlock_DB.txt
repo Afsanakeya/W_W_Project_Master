@@ -1,0 +1,6 @@
+
+cd\
+
+sqlplus / as sysdba
+
+alter user hr identified by hr account unlock;
