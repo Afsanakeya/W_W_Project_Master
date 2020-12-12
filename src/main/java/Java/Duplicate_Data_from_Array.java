@@ -6,48 +6,46 @@ import java.util.Map;
 import java.util.Set;
 
 public class Duplicate_Data_from_Array {
-	
-	
-	public static void main(String args[]) { 
-		String[] names = { "Java", "JavaScript", "Python", "C", "Ruby", "Java" }; 
-		/*
-		// First solution : finding duplicates using brute force method 
+
+	public static void main(String args[]) {
+		String[] names = { "Keya", "Afsana", "Amayra", "Arham", "Keya", "Afsana" };
+
+		// First solution : finding duplicates using brute force method System.out.
 		System.out.println("Finding duplicate elements in array using brute force method"); 
 		for (int i = 0; i < names.length; i++) { 
 			for (int j = i + 1; j < names.length; j++) {
 				if (names[i].equals(names[j]) ) { 
 					// got the duplicate element 
+					System.out.println("Duplicate value is "+names[i]);
 					} 
 				}
 				
 			}
-		*/		
-				
-		// Second solution : use HashSet data structure to find duplicates 
-		System.out.println("Duplicate elements from array using HashSet data structure"); 
-		Set<String> store = new HashSet<>(); 
+		
+		// Second solution : use HashSet data structure to find duplicates
+		System.out.println("Duplicate elements from array using HashSet data structure");
+		Set<String> store = new HashSet<>();
 		for (String name : names) {
-			if (store.add(name) == false) { 
-				System.out.println("found a duplicate element in array : " + name); 
-				} 
-			} 
-		/*
-		// Third solution : using Hash table data structure to find duplicates 
-		System.out.println("Duplicate elements from array using hash table"); 
-		Map<String, Integer> nameAndCount = new HashMap<>(); 
-		// build hash table with count 
-		for (String name : names) { Integer count = nameAndCount.get(name);
-		if (count == null) { nameAndCount.put(name, 1); 
-		} 
-		else { nameAndCount.put(name, ++count); 
-		 }
-		} 
-		*/// Print duplicate elements from array in Java Set<Entry<String, Integer>> entrySet = nameAndCount.entrySet(); for (Entry<String, Integer> entry : entrySet) { if (entry.getValue() > 1) { System.out.println("Duplicate element from array : " + entry.getKey()); } } } }
-				}
-			
+			if (store.add(name) == false) {
+				System.out.println("found a duplicate element in array : " + name);
+			}
 		}
-	
+		System.out.println("Printing newly added value from set: " + store);
+		/*
+		 * // Third solution : using Hash table data structure to find duplicates
+		 * System.out.println("Duplicate elements from array using hash table");
+		 * Map<String, Integer> nameAndCount = new HashMap<>(); // build hash table with
+		 * count for (String name : names) { Integer count = nameAndCount.get(name); if
+		 * (count == null) { nameAndCount.put(name, 1); } else { nameAndCount.put(name,
+		 * ++count); } }
+		 */
+		/// Print duplicate elements from array in Java Set<Entry<String, Integer>>
+		/// entrySet = nameAndCount.entrySet(); for (Entry<String, Integer> entry :
+		/// entrySet) { if (entry.getValue() > 1) { System.out.println("Duplicate
+		/// element from array : " + entry.getKey()); } } } }
+	}
 
-	//Read more: https://javarevisited.blogspot.com/2015/06/3-ways-to-find-duplicate-elements-in-array-java.html#ixzz6K1t0tl3m
+}
 
-
+// Read more:
+// https://javarevisited.blogspot.com/2015/06/3-ways-to-find-duplicate-elements-in-array-java.html#ixzz6K1t0tl3m

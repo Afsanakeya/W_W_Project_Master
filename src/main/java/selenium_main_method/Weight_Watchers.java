@@ -53,7 +53,7 @@ public class Weight_Watchers {
 		
 		//driver.manage().deleteAllCookies();
 		driver.manage().window().maximize();
-		Click_SendKey_Mouse_Hover_Navigare mtd = new Click_SendKey_Mouse_Hover_Navigare();
+		//Click_SendKey_Mouse_Hover_Navigare mtd = new Click_SendKey_Mouse_Hover_Navigare();
 		driver.get("https://www.weightwatchers.com/");
 		//Thread.sleep(3000);
 		
